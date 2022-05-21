@@ -1,3 +1,10 @@
+Dokumentáció:
+=============
+https://mongoosejs.com/docs/validation.html
+https://mongoosejs.com/docs/validation.html#built-in-validators
+
+https://mongoosejs.com/docs/typescript.html
+
 Előkészületek:
 ==============
 1. Backend vizsga starter repo klónozása, átnevezése, npm i
@@ -16,4 +23,3 @@ Feladatmegoldás:
 6. Fordítás indítása ("npm run dev" vagy Ctrl-Shift-B)
 7. Thunder Client teszt kollekció importálása
 8. "N" oldali kontroller (route, handlers) aktualizálása - Thunder Client tesztek aktualizálása
-
